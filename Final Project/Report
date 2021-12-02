@@ -1,0 +1,12 @@
+Sakshi Baldawa
+Professor Haim Levkowitz 
+Mobile App Programming I
+
+	Over the course of this semester in Mobile App Programming, I have learned various aspects of Android Studio and implemented a project from start to finish. My project was an app that allows for easier registration for UMass Lowell Resident Students to sign in their friends into their dorms. The current website is a hassle to use and would be a lot easier to navigate with an app.inspired by current students of UMass Lowell. Their idea was to build a Residence Hall app for UMass Lowell residents to easily sign into the residence halls. I started planning the app around what suggestions were given to me and what information would be needed to log into the app as well as what data would need to be saved. 
+I started off figuring out what data needed to be submitted so in this case, the student and guest’s first and last names, the student and guest’s UML ID number, the date of sign in and the birth date of the guest. By using Canva at the start of the semester to create a prototype of my app. This prototype helped me figure out the style I wanted to use for my app as well as layout, fonts and the theme. I decided I wanted to use UML’s colors for branding, which are red and blue and I also used the Riverhawks logo for the login page. 
+When I started to code the app in Android Studio, I used multiple online resources including sources such as Stack Overflow, Developers for Android Studio, and other sources. Through the class lectures, I learned what elements would be expected and be useful in building my app. A struggle I had was adding images into the app pages, which after some research I learned to do by using imageView. I also learned the relationship between XML and Res. This project helped me get familiar with Android Studio and also GitHub. Because we were expected to use GitHub to submit all our assignments, I familiarized myself with all the aspects of GitHub such as reposorities, pull requests, and READ ME proposals. Since GitHub is used commonly in software development, learning GitHub was helpful for this project. 
+I had to make two activity pages to connect a button on one page to another as well. I did this by implementing it in MainActivity.java. I used button.setOnClickListener(new View.OnClickListener() to build a function that allowed this. Overall, this project helped me learned how to design, develop, and implement a mobile app. 
+
+
+
+
